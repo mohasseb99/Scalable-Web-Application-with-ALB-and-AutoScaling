@@ -5,7 +5,7 @@ A production-style, highly available web application on AWS: EC2 instances in pr
 
 ## Solution Architecture
 
-![Solution architecture](architecture.png)
+![Solution architecture](architecture.svg)
 
 ### Request flow
 
